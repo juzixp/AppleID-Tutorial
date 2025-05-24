@@ -4,7 +4,7 @@
 
  购买独享账号（小火箭独享账号，苹果各国ID，等各类账号）[【点击进入购买】](https://juzixp.top/)
 
-购买共享账号地址[：【 点击进入购买】](https://juzixp.top/)
+购买共享账号地址[：【 点击进入购买】]([https://juzixp.top/](https://juzixp.top/buy/21))
 
 🔥 同步更新高质量节点资源：
 
