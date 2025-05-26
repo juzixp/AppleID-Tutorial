@@ -6,6 +6,14 @@
 
 购买共享账号地址：[【 点击进入购买】](https://juzixp.top/buy/21))
 
+## TG群组频道
+
+1. [TG群组](https://t.me/juzixpchat)
+2. [TG频道](https://t.me/juzixp)
+
+---
+
+
 🔥 同步更新高质量节点资源：
 
 * ✅ 免费 Clash / ClashX / ClashX Pro 节点订阅地址
