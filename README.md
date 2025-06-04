@@ -1,4 +1,4 @@
-## ✨ 2025年6月更新｜最新美区 Apple ID 账号/免费共享 + 小火箭/Quantumult X 节点订阅地址合集
+## ✨ 最新苹果美区账号APPLE ID免费账号共享 + 小火箭/Quantumult X 节点订阅地址合集
 
 📢 **免费共享 Apple 美区账号（Apple ID）**，专为需要访问 App Store 下载 **Shadowrocket（小火箭）**、**Quantumult X（圈X）**、**Stash** 等科学上网工具的用户提供便利！
 
