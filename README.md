@@ -1,6 +1,6 @@
 ## ✨ 最新苹果美区账号APPLE ID免费账号共享 + 小火箭/Quantumult X 节点订阅地址合集
 
-📢 **免费共享 Apple 美区账号（Apple ID）**，专为需要访问 App Store 下载 **Shadowrocket（小火箭）**、**Quantumult X（圈X）**、**Stash** 等科学上网工具的用户提供便利！
+📢 **免费共享 Apple 美区账号（Apple ID）**，专为需要访问 App Store 下载 **Shadowrocket（小火箭）**、Quantumult X（圈X）、Stash 等科学上网工具的用户提供便利！
 
  购买独享账号（小火箭独享账号，苹果各国ID，等各类账号）[【点击进入购买】](https://juzixp.top/)
 
@@ -18,6 +18,7 @@
 
 🔥 同步更新高质量节点资源：
 
+* ✅ **小火箭账号共享（Shadowrocket Apple ID）**
 * ✅ 免费 Clash / ClashX / ClashX Pro 节点订阅地址
 * ✅ 免费 SSR / V2Ray / Trojan 节点
 * ✅ 适用于 iOS / Mac / Windows / Android 各平台
