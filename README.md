@@ -1,4 +1,4 @@
-## ✨ 最新苹果美区账号APPLE ID免费账号共享 + 小火箭/Quantumult X 节点订阅地址合集
+## ✨ 2025年5月更新｜最新苹果美区账号APPLE ID免费账号共享 + 小火箭/Quantumult X 节点订阅地址合集
 
 📢 **免费共享 Apple 美区账号（Apple ID）**，专为需要访问 App Store 下载 **Shadowrocket（小火箭）**、Quantumult X（圈X）、Stash 等科学上网工具的用户提供便利！
 
@@ -10,8 +10,8 @@
 
 > 此教程为了是让大家学习，切勿做违法犯罪的事哦！
 
-1. [TG群组](https://t.me/juzixpchat) ：[juzixpchat](https://t.me/juzixpchat)（不定时更新共享小火箭账号，美区AppleID等）
-2. [TG频道](https://t.me/juzixp)：[juzixp](https://t.me/juzixp)
+<!-- 1. [TG群组](https://t.me/juzixpchat) ：[juzixpchat](https://t.me/juzixpchat)（不定时更新共享小火箭账号，美区AppleID等）
+2. [TG频道](https://t.me/juzixp)：[juzixp](https://t.me/juzixp) -->
 
 ---
 
