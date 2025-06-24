@@ -1,4 +1,4 @@
-## ✨ 2025年6月更新｜最新苹果美区APPLE ID账号🚀免费共享Shadowrocket（小火箭）账号🚀免费小火箭节点订阅地址合集
+## 最新苹果美区APPLE ID账号🚀免费共享Shadowrocket（小火箭）账号🚀免费小火箭节点订阅地址合集
 
 📢 最新免费美区Apple ID、小火箭、圈X共享账号与高速节点，每日更新！🚀 **免费共享 Apple 美区账号（Apple ID）**，专为需要访问 App Store 下载 **Shadowrocket（小火箭）**、Quantumult X（圈X）、Stash 等科学上网工具的用户提供便利！
 
@@ -13,8 +13,11 @@
 
 > 此教程为了是让大家学习，切勿做违法犯罪的事哦！
 
-<!-- 1. [TG群组](https://t.me/juzixpchat) ：[juzixpchat](https://t.me/juzixpchat)（不定时更新共享小火箭账号，美区AppleID等）
-2. [TG频道](https://t.me/juzixp)：[juzixp](https://t.me/juzixp) -->
+1. [TG群组](https://t.me/juzixpchat) ：[@juzixpchat](https://t.me/juzixpchat)
+
+2. [TG频道](https://t.me/juzixp)：[@juzixp](https://t.me/juzixp) 
+
+不定期更新免费订阅节点,共享小火箭账号，美区AppleID等。
 
 ---
 
@@ -119,6 +122,32 @@
 #### 🔗 VLESS / V2Ray 免费节点
 
 - https://free-ss.site（定期更新，含 VLESS/VMess 多协议）
+
+### Clash代理节点订阅地址列表
+
+以下是截至2025年6月24日整理的Clash代理节点订阅地址，均采用YAML格式，适用于Clash或ClashX客户端。
+
+1. **SystemProxy 主配置文件**
+   - 地址: https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config.yaml
+   - 备注: 推荐用于一般用途，提供稳定的代理节点。
+2. **SystemProxy US节点**
+   - 地址: https://raw.githubusercontent.com/SnapdragonLee/SystemProxy/master/dist/clash_config_extra_US.yaml
+   - 备注: 美国地区优化节点，适合需要访问美国服务的用户。
+3. **NodeFree**
+   - 地址: https://nodefree.org/dy/2024/07/20240725.yaml
+   - 备注: 每日更新节点，需验证2025年最新可用性。
+4. **Mfuu**
+   - 地址: https://raw.githubusercontent.com/mfuu/v2ray/master/clash.yaml
+   - 备注: 社区提供的免费订阅地址，适用于多种网络环境。
+5. **Anaer**
+   - 地址: https://raw.githubusercontent.com/anaer/Sub/main/clash.yaml
+   - 备注: 稳定的Clash代理节点，适合长期使用。
+6. **Ermaozi**
+   - 地址: https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/clash.yml
+   - 备注: 社区维护的订阅地址，包含多种代理节点。
+7. **Learnhard-cn**
+   - 地址: https://cdn.jsdelivr.net/gh/vxiaov/free_proxies@main/clash/clash.provider.yaml
+   - 备注: 社区提供的免费代理节点，适合广泛用途。
 
 ### 📚 免费资源仓库 & 更新站
 
@@ -227,9 +256,9 @@
 
 ## 🔐 Shadowrocket（小火箭）共享账号 & 美区 Apple ID
 
-> 🕒 更新时间：2025 年 6 月 2 日
+> 🕒 更新时间：2025 年 6 月 20 日
 
-注意：**切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
+注意：**免费共享苹果账号必须从 App Store 登录切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
 
 1. 美区AppleID成品账号（已增加库存，数量有限，先到先得）：[小火箭 Shadowrocket 成品号 美国区](https://juzixp.top/buy/15)（**账号购买后可以修改密码、密保，并永久使用**）
 2. 共享账号容易失效，需要稳定的可购买成品账号
