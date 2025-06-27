@@ -2,11 +2,14 @@
 
 📢 最新免费美区Apple ID、小火箭、圈X共享账号与高速节点，每日更新！🚀 **免费共享 Apple 美区账号（Apple ID）**，专为需要访问 App Store 下载 **Shadowrocket（小火箭）**、Quantumult X（圈X）、Stash 等科学上网工具的用户提供便利！
 
+
+[【小火箭共享账号每日更新】](https://docs.applexp.com/free-accounts/Shadowrocket)
+
 #### 购买独享账号（小火箭独享账号，苹果各国ID，等各类账号）[【点击进入购买】](https://juzixp.top/)
 
 #### 购买共享账号地址：[【 点击进入购买】](https://juzixp.top/buy/21)
 
-#### [App Store 美区礼品卡 $3](https://shop.muooy.com/buy/31) | [App Store 美区礼品卡 $10](https://shop.muooy.com/buy/33) | [App Store 港区礼品卡 HK$50](https://shop.muooy.com/buy/39)
+<!-- #### [App Store 美区礼品卡 $3](https://shop.muooy.com/buy/31) | [App Store 美区礼品卡 $10](https://shop.muooy.com/buy/33) | [App Store 港区礼品卡 HK$50](https://shop.muooy.com/buy/39) -->
 
 
 ## 前言声明
