@@ -259,7 +259,9 @@
 
 ## 🔐 Shadowrocket（小火箭）共享账号 & 美区 Apple ID
 
-> 🕒 更新时间：2025 年 6 月 20 日
+> 🕒 更新时间：2025 年 7 月 1 日
+
+[【小火箭共享账号每日更新】](https://docs.applexp.com/free-accounts/Shadowrocket)
 
 注意：**免费共享苹果账号必须从 App Store 登录切勿在设置登陆iCloud账号！！不要点升级！不要点升级！不要点升级！**
 
