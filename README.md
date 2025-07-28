@@ -119,12 +119,14 @@
 
 - https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub
 - https://www.liesauer.net/yogurt/subscribe
+- 免费免费ssr节点分享1：[freefq.com](https://freefq.com/free-ssr/)
+- 免费免费ssr节点分享2：[lncn.org](https://lncn.org/)（可能需要科学才能访问）
 
 > 📌 **说明**：以上订阅文件会周期性更新，但节点可用性存在波动，建议使用支持订阅功能的客户端（如 SSR for Android、Shadowrocket 等）。
 
 #### 🔗 VLESS / V2Ray 免费节点
 
-- https://free-ss.site（定期更新，含 VLESS/VMess 多协议）
+- [https://free-ss.site](https://free-ss.site)（定期更新，含 VLESS/VMess 多协议）
 
 ### Clash代理节点订阅地址列表
 
