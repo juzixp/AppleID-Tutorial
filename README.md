@@ -5,9 +5,9 @@
 
 [【小火箭共享账号每日更新】](https://docs.applexp.com/free-accounts/Shadowrocket)
 
-#### 购买独享账号（小火箭独享账号，苹果各国ID，等各类账号）[【点击进入购买】](https://juzixp.com/)
+#### 购买独享账号（小火箭独享账号，苹果各国ID，等各类账号）[【点击进入购买】](https://shop.muooy.com/)
 
-#### 购买共享账号地址：[【 点击进入购买】](https://juzixp.com/buy/21)
+#### 购买共享账号地址：[【 点击进入购买】](https://shop.muooy.com/buy/21)
 
 <!-- #### [App Store 美区礼品卡 $3](https://juzixp.com/buy/31) | [App Store 美区礼品卡 $10](https://juzixp.com/buy/33) | [App Store 港区礼品卡 HK$50](https://juzixp.com/buy/39) -->
 
