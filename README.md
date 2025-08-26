@@ -238,7 +238,7 @@
 - **活动截止**：2025 年 6 月 3 日
 - 支持套餐自动折抵升级（如月付转年付）
 
-🔗 [YepFast 官网地址](https://椰皮.com/#register?code=fXJDQ4X9)
+🔗 [YepFast 官网地址](https://yep.top/#register?code=fXJDQ4X9)
 
 ### 🧊 [一元机场](https://xn--4gq62f52gdss.ink/#/register?code=GDbjZxHa)（极致性价比 · 基础够用）
 
